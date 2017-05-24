@@ -5,7 +5,7 @@ using ExperimentUtilities;
 
 namespace ProceduralStage {
 
-	public class MakeStageMat : MonoBehaviour {
+	public class ProceduralStage : MonoBehaviour {
 
 		#region Resources
 		[Header("Instances")]
