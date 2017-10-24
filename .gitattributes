@@ -1,2 +1,2 @@
-Assets/DefaultPackage/Plugins/* linguist-vendored
-Assets/DefaultPackage/Plugins/builtin_shaders-5.6.0f3/DefaultResources/* linguist-vendored
+Assets/DefaultPackage/Plugins/* linguist-vendored=false
+Assets/DefaultPackage/Plugins/builtin_shaders-5.6.0f3/* linguist-vendored=false
